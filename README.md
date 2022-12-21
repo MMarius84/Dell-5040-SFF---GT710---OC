@@ -7,10 +7,10 @@ The EFI/Config is set to utilize the iGPU, any other GPUs used will need to have
 
 PC Spesc:
 
-CPU:    I5-6500 
-iGPU:   Intel HD 530 (iGPU) - **NOT ENABLED** 
-dGPU:   MSI nVIDIA GT 710 (OOB Working)* 
-RAM:    16Gb DDR3L - 1600 Mhz 
+CPU:    I5-6500 <br />
+iGPU:   Intel HD 530 (iGPU) - **NOT ENABLED** <br />
+dGPU:   MSI nVIDIA GT 710 (OOB Working)* <br />
+RAM:    16Gb DDR3L - 1600 Mhz <br />
 * To work above BigSur, OCLP must be used to inject the needed drivers.
 
 **!!!!!!!!  IMPORTANT   !!!!!!!!!!**
